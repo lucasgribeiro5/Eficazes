@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "fabricadeprojetos4t-a-eficaz",
+=======
+  "name": "eficaz-project",
+>>>>>>> 3ed92b723ac0d65fc8206bbf779a7532fd78812c
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -9,16 +13,23 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^1.7.7",
     "pinia": "^2.1.7",
+=======
+>>>>>>> 3ed92b723ac0d65fc8206bbf779a7532fd78812c
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
+<<<<<<< HEAD
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.41",
     "tailwindcss": "^3.4.10",
     "vite": "^5.4.2"
+=======
+    "vite": "^5.3.1"
+>>>>>>> 3ed92b723ac0d65fc8206bbf779a7532fd78812c
   }
 }
