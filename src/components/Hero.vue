@@ -1,4 +1,5 @@
 <script setup>
+
 import { ref } from 'vue';
 
 const repeatText = ref(Array(30).fill('your text here &#10022;').join(' '));
