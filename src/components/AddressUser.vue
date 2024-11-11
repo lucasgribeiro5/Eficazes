@@ -11,6 +11,7 @@ const listaEndereco = ref({
   cidade: '',
   numeroResidencia: ''
 });
+
 const user = route.state.user;
 const endereco = ref([])
 
