@@ -6,6 +6,7 @@
           <img src="../assets/Range.png" alt="" />
           <img src="../assets/Range2.png" alt="" class="imagem__linha2">
         </div>
+
         <h1 class="titulo" :class="{ 'animate-complex': visible }">GABINI HEADSET STORE</h1>
 
         <div class="container__1__2" :class="{ 'animate-complex delay-1': visible }">
