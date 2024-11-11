@@ -1,5 +1,6 @@
 <template>
     <h1>NEW PRODUCTS</h1>
+
     <p>Choose the headset that best suits your needs. We offer top-quality options with</p>
     <p>a variety of features to enhance your audio experience</p>
     <div class="container">
