@@ -3,7 +3,7 @@
 Grupo Eficazes
 
 Integrantes
-``
+
 Lucas Garcia Ribeiro - 1971977
 
 Luiz Fernando Ferreira do Carmo - 1965671
@@ -14,7 +14,7 @@ Josué Miguel Ramos de Souza - 1976990
 
 Julio Cesar Golfredo Carneiro - 1963824 
 
-``
+
 
 ## Recommended IDE Setup
 
