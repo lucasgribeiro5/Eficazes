@@ -40,7 +40,7 @@ export default {
   width: 94%;
   height: auto;
   border-radius: 10px;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.35s ease;
 }
 
 .default-image {
