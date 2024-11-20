@@ -1,5 +1,6 @@
 <template>
   <div class="heroSection" v-intersect="onIntersect">
+    
     <div class="containerSection">
       <div class="container__1">
         <div class="imagem__linha">
@@ -13,7 +14,9 @@
           <hr />
           <div>
             <h3 class="subTitulo">
+              
               Welcome to Gabini quality, at our most welcoming price.
+              
             </h3>
             <a href="#" class="buttonBase" :class="{ 'animate-complex delay-2': visible }">
               <div class="seeMoreDetails">Ver Mais Detalhes</div>
